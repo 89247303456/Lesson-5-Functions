@@ -1,0 +1,15 @@
+D:\git-code\Lesson 5 Functions and one-dimensional arrays\Task 36\bin\Debug\net6.0\Task 36.exe
+D:\git-code\Lesson 5 Functions and one-dimensional arrays\Task 36\bin\Debug\net6.0\Task 36.deps.json
+D:\git-code\Lesson 5 Functions and one-dimensional arrays\Task 36\bin\Debug\net6.0\Task 36.runtimeconfig.json
+D:\git-code\Lesson 5 Functions and one-dimensional arrays\Task 36\bin\Debug\net6.0\Task 36.dll
+D:\git-code\Lesson 5 Functions and one-dimensional arrays\Task 36\bin\Debug\net6.0\Task 36.pdb
+D:\git-code\Lesson 5 Functions and one-dimensional arrays\Task 36\obj\Debug\net6.0\Task 36.csproj.AssemblyReference.cache
+D:\git-code\Lesson 5 Functions and one-dimensional arrays\Task 36\obj\Debug\net6.0\Task 36.GeneratedMSBuildEditorConfig.editorconfig
+D:\git-code\Lesson 5 Functions and one-dimensional arrays\Task 36\obj\Debug\net6.0\Task 36.AssemblyInfoInputs.cache
+D:\git-code\Lesson 5 Functions and one-dimensional arrays\Task 36\obj\Debug\net6.0\Task 36.AssemblyInfo.cs
+D:\git-code\Lesson 5 Functions and one-dimensional arrays\Task 36\obj\Debug\net6.0\Task 36.csproj.CoreCompileInputs.cache
+D:\git-code\Lesson 5 Functions and one-dimensional arrays\Task 36\obj\Debug\net6.0\Task 36.dll
+D:\git-code\Lesson 5 Functions and one-dimensional arrays\Task 36\obj\Debug\net6.0\refint\Task 36.dll
+D:\git-code\Lesson 5 Functions and one-dimensional arrays\Task 36\obj\Debug\net6.0\Task 36.pdb
+D:\git-code\Lesson 5 Functions and one-dimensional arrays\Task 36\obj\Debug\net6.0\Task 36.genruntimeconfig.cache
+D:\git-code\Lesson 5 Functions and one-dimensional arrays\Task 36\obj\Debug\net6.0\ref\Task 36.dll
